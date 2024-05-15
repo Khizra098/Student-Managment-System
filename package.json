@@ -1,0 +1,17 @@
+{
+  "name": "student-managment-system-by-khiz",
+  "version": "1.0.0",
+  "description": "This is cli based application",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "khizra",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.12.12"
+  }
+}
